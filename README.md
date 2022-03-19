@@ -16,7 +16,7 @@ And copy the files under botdata directly to the folder where the program is loc
 
 # Install
 
-Before running this program, you need to type PIP install AIML, PIP install urlib3, PIP install requests in CMD
+Before running this program, you need to type PIP install AIML in CMD
 
 # 聊天机器人中文版
 
