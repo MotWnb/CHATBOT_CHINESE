@@ -36,4 +36,4 @@ Before running this program, you need to type PIP install AIML, PIP install urli
 
 # 安装
 
-在运行这个程序之前，需要在CMD中键入PIP install AIML、PIP install urlib3、PIP install requests
+在运行这个程序之前，需要在CMD中键入PIP install AIML
